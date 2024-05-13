@@ -5,4 +5,5 @@ O erro do passado de Lyra aconteceu quando, em um momento de impulso e desespero
 Apesar de sua culpa e autocondenação, Lyra é uma pessoa compassiva e altruísta, sempre pronta para ajudar aqueles em necessidade, mesmo que isso a coloque em perigo. Ela se junta à jornada dos heróis não apenas em busca de redenção pessoal, mas também porque acredita sinceramente que é seu dever usar seus poderes para proteger os inocentes e enfrentar as ameaças que assolam o reino.
 
 Durante a jornada, Lyra e Aelar encontram conforto um no outro ao compartilhar a carga de seus passados semelhantes. O laço que se forma entre eles vai além da amizade, evoluindo para um amor que floresce nas sombras da escuridão que ambos enfrentaram. Seu relacionamento é uma fonte de força e apoio mútuo, inspirando-os a enfrentar os desafios com coragem e determinação. Juntos, eles descobrem que, mesmo nas piores circunstâncias, o amor pode ser uma luz que guia o caminho para a redenção.
-![Lyra](https://github.com/breno-ceribeli/Lab-Natty-with-AI/assets/168381686/cfeea3d8-91ff-4b9b-b16e-6d809a1f38ce)
+
+![Lyra](https://github.com/breno-ceribeli/Lab-Natty-with-AI/assets/168381686/a9882ccc-c866-4a89-8daf-227209f32dce)
