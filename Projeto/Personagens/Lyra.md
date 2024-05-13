@@ -6,4 +6,5 @@ Apesar de sua culpa e autocondenação, Lyra é uma pessoa compassiva e altruís
 
 Durante a jornada, Lyra e Aelar encontram conforto um no outro ao compartilhar a carga de seus passados semelhantes. O laço que se forma entre eles vai além da amizade, evoluindo para um amor que floresce nas sombras da escuridão que ambos enfrentaram. Seu relacionamento é uma fonte de força e apoio mútuo, inspirando-os a enfrentar os desafios com coragem e determinação. Juntos, eles descobrem que, mesmo nas piores circunstâncias, o amor pode ser uma luz que guia o caminho para a redenção.
 
-![Lyra](https://github.com/breno-ceribeli/Lab-Natty-with-AI/assets/168381686/a9882ccc-c866-4a89-8daf-227209f32dce)
+
+![Lyra5](https://github.com/breno-ceribeli/Lab-Natty-with-AI/assets/168381686/876ecec6-dd3e-4c78-bd93-5a9bb97d27f3)
