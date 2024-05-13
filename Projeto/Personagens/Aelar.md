@@ -7,4 +7,4 @@ Apesar de seu fardo pessoal, Aelar é leal aos seus companheiros e está determi
 
 À medida que a história avança, Aelar enfrenta o dilema de perdoar a si mesmo e aceitar que o passado não pode ser mudado, mas que ele pode encontrar redenção através de suas ações no presente. Sua jornada de autodescoberta o leva a confrontar seus medos mais profundos e a abraçar sua verdadeira natureza como guardião não apenas da floresta, mas também de seu próprio destino.
 
-[Aelar à beira de um riacho](https://raw.githubusercontent.com/breno-ceribeli/Lab-Natty-with-AI/main/Projeto/img/Aelar.jpg)
+![Aelar](https://github.com/breno-ceribeli/Lab-Natty-with-AI/assets/168381686/3e88c991-d8e4-45ca-a038-9427eac06e0e)
